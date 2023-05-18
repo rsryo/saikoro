@@ -1,0 +1,70 @@
+fileFormatVersion: 2
+guid: 0d5a5dd0c6237504b89916cbec40cfdd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - start: {instanceID: 0}
+  - map: {instanceID: 0}
+  - map2: {instanceID: 0}
+  - map3: {instanceID: 0}
+  - map4: {instanceID: 0}
+  - map5: {instanceID: 0}
+  - map6: {instanceID: 0}
+  - map7: {instanceID: 0}
+  - map8: {instanceID: 0}
+  - map9: {instanceID: 0}
+  - map10: {instanceID: 0}
+  - map11: {instanceID: 0}
+  - map12: {instanceID: 0}
+  - map13: {instanceID: 0}
+  - map14: {instanceID: 0}
+  - map15: {instanceID: 0}
+  - map16: {instanceID: 0}
+  - map17: {instanceID: 0}
+  - map18: {instanceID: 0}
+  - map19: {instanceID: 0}
+  - map20: {instanceID: 0}
+  - map21: {instanceID: 0}
+  - map22: {instanceID: 0}
+  - map23: {instanceID: 0}
+  - map24: {instanceID: 0}
+  - map25: {instanceID: 0}
+  - map26: {instanceID: 0}
+  - map27: {instanceID: 0}
+  - map28: {instanceID: 0}
+  - map29: {instanceID: 0}
+  - map30: {instanceID: 0}
+  - map31: {instanceID: 0}
+  - map32: {instanceID: 0}
+  - map33: {instanceID: 0}
+  - map34: {instanceID: 0}
+  - map35: {instanceID: 0}
+  - map36: {instanceID: 0}
+  - map37: {instanceID: 0}
+  - goal: {instanceID: 0}
+  - zoon: {instanceID: 0}
+  - zoon2: {instanceID: 0}
+  - zoon3: {instanceID: 0}
+  - zoon4: {instanceID: 0}
+  - zoon5: {instanceID: 0}
+  - zoon6: {instanceID: 0}
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - player3: {instanceID: 0}
+  - player4: {instanceID: 0}
+  - image: {instanceID: 0}
+  - eventText: {instanceID: 0}
+  - playerName: {instanceID: 0}
+  - playerNameText: {instanceID: 0}
+  - button: {instanceID: 0}
+  - allCamera: {instanceID: 0}
+  - mapButton: {instanceID: 0}
+  - goalImage: {instanceID: 0}
+  - untilGoal: {instanceID: 0}
+  - sound1: {fileID: 8300000, guid: bad5f8bb3451f43858c34941a337e74c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
